@@ -1,0 +1,17 @@
+C:\Repositories\SpotifyHootnany\SpotifyApiShenanigans.App\bin\Debug\netcoreapp2.1\SpotifyHootnany.App.deps.json
+C:\Repositories\SpotifyHootnany\SpotifyApiShenanigans.App\bin\Debug\netcoreapp2.1\SpotifyHootnany.App.runtimeconfig.json
+C:\Repositories\SpotifyHootnany\SpotifyApiShenanigans.App\bin\Debug\netcoreapp2.1\SpotifyHootnany.App.runtimeconfig.dev.json
+C:\Repositories\SpotifyHootnany\SpotifyApiShenanigans.App\bin\Debug\netcoreapp2.1\SpotifyHootnany.App.dll
+C:\Repositories\SpotifyHootnany\SpotifyApiShenanigans.App\bin\Debug\netcoreapp2.1\SpotifyHootnany.App.pdb
+C:\Repositories\SpotifyHootnany\SpotifyApiShenanigans.App\bin\Debug\netcoreapp2.1\SpotifyHootnanyServices.dll
+C:\Repositories\SpotifyHootnany\SpotifyApiShenanigans.App\bin\Debug\netcoreapp2.1\SpotifyHootnanyServices.pdb
+C:\Repositories\SpotifyHootnany\SpotifyApiShenanigans.App\obj\Debug\netcoreapp2.1\SpotifyHootnany.App.csprojAssemblyReference.cache
+C:\Repositories\SpotifyHootnany\SpotifyApiShenanigans.App\obj\Debug\netcoreapp2.1\SpotifyHootnany.App.csproj.CoreCompileInputs.cache
+C:\Repositories\SpotifyHootnany\SpotifyApiShenanigans.App\obj\Debug\netcoreapp2.1\SpotifyHootnany.App.RazorAssemblyInfo.cache
+C:\Repositories\SpotifyHootnany\SpotifyApiShenanigans.App\obj\Debug\netcoreapp2.1\SpotifyHootnany.App.RazorAssemblyInfo.cs
+C:\Repositories\SpotifyHootnany\SpotifyApiShenanigans.App\obj\Debug\netcoreapp2.1\SpotifyHootnany.App.AssemblyInfoInputs.cache
+C:\Repositories\SpotifyHootnany\SpotifyApiShenanigans.App\obj\Debug\netcoreapp2.1\SpotifyHootnany.App.AssemblyInfo.cs
+C:\Repositories\SpotifyHootnany\SpotifyApiShenanigans.App\obj\Debug\netcoreapp2.1\SpotifyHootnany.App.RazorTargetAssemblyInfo.cache
+C:\Repositories\SpotifyHootnany\SpotifyApiShenanigans.App\obj\Debug\netcoreapp2.1\SpotifyHootnany.App.csproj.CopyComplete
+C:\Repositories\SpotifyHootnany\SpotifyApiShenanigans.App\obj\Debug\netcoreapp2.1\SpotifyHootnany.App.dll
+C:\Repositories\SpotifyHootnany\SpotifyApiShenanigans.App\obj\Debug\netcoreapp2.1\SpotifyHootnany.App.pdb

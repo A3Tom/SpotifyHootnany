@@ -1,0 +1,9 @@
+C:\Users\T_s_g\source\repos\SpotifyApiShenanigans\SpotifyApiShenanigans.Services\bin\Debug\netcoreapp2.1\SpotifyApiShenanigans.Services.deps.json
+C:\Users\T_s_g\source\repos\SpotifyApiShenanigans\SpotifyApiShenanigans.Services\bin\Debug\netcoreapp2.1\SpotifyApiShenanigans.Services.dll
+C:\Users\T_s_g\source\repos\SpotifyApiShenanigans\SpotifyApiShenanigans.Services\bin\Debug\netcoreapp2.1\SpotifyApiShenanigans.Services.pdb
+C:\Users\T_s_g\source\repos\SpotifyApiShenanigans\SpotifyApiShenanigans.Services\obj\Debug\netcoreapp2.1\SpotifyApiShenanigans.Services.csprojAssemblyReference.cache
+C:\Users\T_s_g\source\repos\SpotifyApiShenanigans\SpotifyApiShenanigans.Services\obj\Debug\netcoreapp2.1\SpotifyApiShenanigans.Services.csproj.CoreCompileInputs.cache
+C:\Users\T_s_g\source\repos\SpotifyApiShenanigans\SpotifyApiShenanigans.Services\obj\Debug\netcoreapp2.1\SpotifyApiShenanigans.Services.AssemblyInfoInputs.cache
+C:\Users\T_s_g\source\repos\SpotifyApiShenanigans\SpotifyApiShenanigans.Services\obj\Debug\netcoreapp2.1\SpotifyApiShenanigans.Services.AssemblyInfo.cs
+C:\Users\T_s_g\source\repos\SpotifyApiShenanigans\SpotifyApiShenanigans.Services\obj\Debug\netcoreapp2.1\SpotifyApiShenanigans.Services.dll
+C:\Users\T_s_g\source\repos\SpotifyApiShenanigans\SpotifyApiShenanigans.Services\obj\Debug\netcoreapp2.1\SpotifyApiShenanigans.Services.pdb

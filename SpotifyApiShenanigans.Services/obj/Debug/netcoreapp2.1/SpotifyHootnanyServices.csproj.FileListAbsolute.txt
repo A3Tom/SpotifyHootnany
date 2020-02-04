@@ -1,0 +1,8 @@
+C:\Repositories\SpotifyHootnany\SpotifyApiShenanigans.Services\bin\Debug\netcoreapp2.1\SpotifyHootnanyServices.deps.json
+C:\Repositories\SpotifyHootnany\SpotifyApiShenanigans.Services\bin\Debug\netcoreapp2.1\SpotifyHootnanyServices.dll
+C:\Repositories\SpotifyHootnany\SpotifyApiShenanigans.Services\bin\Debug\netcoreapp2.1\SpotifyHootnanyServices.pdb
+C:\Repositories\SpotifyHootnany\SpotifyApiShenanigans.Services\obj\Debug\netcoreapp2.1\SpotifyHootnanyServices.csproj.CoreCompileInputs.cache
+C:\Repositories\SpotifyHootnany\SpotifyApiShenanigans.Services\obj\Debug\netcoreapp2.1\SpotifyHootnanyServices.AssemblyInfoInputs.cache
+C:\Repositories\SpotifyHootnany\SpotifyApiShenanigans.Services\obj\Debug\netcoreapp2.1\SpotifyHootnanyServices.AssemblyInfo.cs
+C:\Repositories\SpotifyHootnany\SpotifyApiShenanigans.Services\obj\Debug\netcoreapp2.1\SpotifyHootnanyServices.dll
+C:\Repositories\SpotifyHootnany\SpotifyApiShenanigans.Services\obj\Debug\netcoreapp2.1\SpotifyHootnanyServices.pdb

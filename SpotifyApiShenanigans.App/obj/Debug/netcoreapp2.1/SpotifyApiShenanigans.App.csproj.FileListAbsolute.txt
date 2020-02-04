@@ -1,0 +1,17 @@
+C:\Users\T_s_g\source\repos\SpotifyApiShenanigans\SpotifyApiShenanigans.App\bin\Debug\netcoreapp2.1\SpotifyApiShenanigans.App.deps.json
+C:\Users\T_s_g\source\repos\SpotifyApiShenanigans\SpotifyApiShenanigans.App\bin\Debug\netcoreapp2.1\SpotifyApiShenanigans.App.runtimeconfig.json
+C:\Users\T_s_g\source\repos\SpotifyApiShenanigans\SpotifyApiShenanigans.App\bin\Debug\netcoreapp2.1\SpotifyApiShenanigans.App.runtimeconfig.dev.json
+C:\Users\T_s_g\source\repos\SpotifyApiShenanigans\SpotifyApiShenanigans.App\bin\Debug\netcoreapp2.1\SpotifyApiShenanigans.App.dll
+C:\Users\T_s_g\source\repos\SpotifyApiShenanigans\SpotifyApiShenanigans.App\bin\Debug\netcoreapp2.1\SpotifyApiShenanigans.App.pdb
+C:\Users\T_s_g\source\repos\SpotifyApiShenanigans\SpotifyApiShenanigans.App\obj\Debug\netcoreapp2.1\SpotifyApiShenanigans.App.csprojAssemblyReference.cache
+C:\Users\T_s_g\source\repos\SpotifyApiShenanigans\SpotifyApiShenanigans.App\obj\Debug\netcoreapp2.1\SpotifyApiShenanigans.App.csproj.CoreCompileInputs.cache
+C:\Users\T_s_g\source\repos\SpotifyApiShenanigans\SpotifyApiShenanigans.App\obj\Debug\netcoreapp2.1\SpotifyApiShenanigans.App.RazorAssemblyInfo.cache
+C:\Users\T_s_g\source\repos\SpotifyApiShenanigans\SpotifyApiShenanigans.App\obj\Debug\netcoreapp2.1\SpotifyApiShenanigans.App.RazorAssemblyInfo.cs
+C:\Users\T_s_g\source\repos\SpotifyApiShenanigans\SpotifyApiShenanigans.App\obj\Debug\netcoreapp2.1\SpotifyApiShenanigans.App.AssemblyInfoInputs.cache
+C:\Users\T_s_g\source\repos\SpotifyApiShenanigans\SpotifyApiShenanigans.App\obj\Debug\netcoreapp2.1\SpotifyApiShenanigans.App.AssemblyInfo.cs
+C:\Users\T_s_g\source\repos\SpotifyApiShenanigans\SpotifyApiShenanigans.App\obj\Debug\netcoreapp2.1\SpotifyApiShenanigans.App.RazorTargetAssemblyInfo.cache
+C:\Users\T_s_g\source\repos\SpotifyApiShenanigans\SpotifyApiShenanigans.App\obj\Debug\netcoreapp2.1\SpotifyApiShenanigans.App.dll
+C:\Users\T_s_g\source\repos\SpotifyApiShenanigans\SpotifyApiShenanigans.App\obj\Debug\netcoreapp2.1\SpotifyApiShenanigans.App.pdb
+C:\Users\T_s_g\source\repos\SpotifyApiShenanigans\SpotifyApiShenanigans.App\bin\Debug\netcoreapp2.1\SpotifyApiShenanigans.Services.dll
+C:\Users\T_s_g\source\repos\SpotifyApiShenanigans\SpotifyApiShenanigans.App\bin\Debug\netcoreapp2.1\SpotifyApiShenanigans.Services.pdb
+C:\Users\T_s_g\source\repos\SpotifyApiShenanigans\SpotifyApiShenanigans.App\obj\Debug\netcoreapp2.1\SpotifyApiShenanigans.App.csproj.CopyComplete
